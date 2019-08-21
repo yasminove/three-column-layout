@@ -1,0 +1,22 @@
+code {
+  background: black;
+  color: #fff;
+  display: block;
+  padding: 24px 15px;
+  text-align: center;
+}
+
+header,
+section,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+
+section {
+  float: left;
+  width: 30%;
+}
+
+footer {
+  clear: both;
+}
